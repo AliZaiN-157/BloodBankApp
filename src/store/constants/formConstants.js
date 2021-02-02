@@ -1,0 +1,11 @@
+
+// Donors Form
+
+export const SUBMIT_DONORS_FORM = 'SUBMIT_DONORS_FORM'
+export const TOTAL_DONORS = 'TOTAL_DONORS'
+
+// Recipients Form
+
+export const SUBMIT_RECIPIENTS_FORM = 'SUBMIT_RECIPIENTS_FORM'
+export const TOTAL_RECIPIENTS = 'TOTAL_RECIPIENTS'
+
